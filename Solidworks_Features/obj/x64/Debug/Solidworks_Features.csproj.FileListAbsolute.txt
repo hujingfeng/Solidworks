@@ -1,0 +1,11 @@
+D:\Solidworks_Features-main\Solidworks_Features\bin\x64\Debug\Solidworks_Features.exe.config
+D:\Solidworks_Features-main\Solidworks_Features\bin\x64\Debug\Solidworks_Features.exe
+D:\Solidworks_Features-main\Solidworks_Features\bin\x64\Debug\Solidworks_Features.pdb
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.csprojAssemblyReference.cache
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.Form1.resources
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.Form2.resources
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.Properties.Resources.resources
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.csproj.GenerateResource.cache
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.csproj.CoreCompileInputs.cache
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.exe
+D:\Solidworks_Features-main\Solidworks_Features\obj\x64\Debug\Solidworks_Features.pdb
